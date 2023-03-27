@@ -1,0 +1,97 @@
+Manipülasyon
+Yönetim
+Transfer
+Bilgi
+Kodlama
+Bilgisayar
+Mantık
+Devre
+Dizayn
+Yazılım
+İşletim sistemi
+Uygulama
+C++
+C#
+C
+Java
+Basic
+.net
+Assembly
+Dennis Ritchie
+Linus Torvalds
+James Gosling
+Bjarne Stroustrup
+Richard Stallman
+Linux
+Windows
+Ubuntu
+veri
+algoritma
+sıralama
+sort
+ağaç
+tree
+algorithm
+otomat
+automata
+fonksiyon
+derleyici
+ide
+integrated development environment
+dosya
+dizin
+klasör
+file
+directory
+graf
+işletim
+Nesne
+yönelim
+yönelimli
+programlama
+bilişim
+sistem
+system
+güvenlik
+sıkıştırma
+şifreleme
+encryption
+veritabanı
+SQL
+mysql
+json
+mssql
+mind
+mapping
+ddl
+dml
+ado
+ado.net
+yapay zeka
+network
+ağ
+döngü
+koşul
+recursive
+öyineli
+özyinelemeli
+python
+unix
+mobil
+js
+heap
+stack
+global
+ram
+bellek
+hafıza
+visual
+javascript
+tensorflow
+callback
+blok
+kod
+pointer
+işaretçi
+posix
+exe

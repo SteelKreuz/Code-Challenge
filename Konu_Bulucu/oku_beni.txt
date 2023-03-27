@@ -1,0 +1,2 @@
+TextBox'a girilen yazıyı veya bir text dosyasındaki metnin
+konusunu bulan program.

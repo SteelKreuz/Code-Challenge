@@ -1,0 +1,93 @@
+Devre
+Anahtar
+Akım
+Akım Yoğunluğu
+Enerji
+Güç
+Alternans
+Alternatif Akım
+Doğru Akım
+Doğru
+Alternatif
+Ampermetre
+Voltmetre
+Frekans
+Gerilim
+Avometre
+Bobin
+Diyot
+Duy
+İletken
+Yalıtkan
+Jeneratör
+Açık Devre
+Kapalı Devre
+Kısa Devre
+Ohm
+Röle
+Sigorta
+Takometre
+Yüksek Gerilim
+Alçak Gerilim
+dinamo
+foto diyot
+fiş
+endüktans
+emk
+emf
+havya
+hidroelektrik
+santral
+iletken
+kablo
+inverter
+kalibrasyon
+kapasitans
+capacitance
+kondansatör
+kontrol kalemi
+kontrol kalem
+kontaktör
+lehim
+lüksmetre
+ohmmetre
+özdirenç
+öziletkenlik
+pano
+piezoelektrik
+priz
+PTC
+regülatör
+rezistans
+resistance
+direnç
+relay
+saykıl
+cycle
+fuse
+Termik elektrik santrali
+termokupl
+topraklama
+tornavida
+trafo
+transistör
+volt
+watt
+wattmetre
+voltmetre
+yan keski
+yarı iletken
+indüksiyon
+indüklenmek
+indüklemek
+cihaz
+hidroelektrik
+sinyal
+signal
+elektromanyetik
+tayf
+manyetik
+akı
+elektrostatik
+magnetostatik
+geçirgenlik

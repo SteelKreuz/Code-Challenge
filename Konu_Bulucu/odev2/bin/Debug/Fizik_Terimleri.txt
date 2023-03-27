@@ -1,0 +1,98 @@
+Basınç
+Boyut
+Hacim
+Hâl
+Değişim
+Buharlaşma
+Dalgalar
+Dinamik
+Statik
+Isı
+Uzay Zaman
+Newton
+Isaac Newton
+Einstein
+Albert Einstein
+Elektrik
+Elektromanyetik
+Alan
+Maxwell
+James Clerk Maxwell
+İvme
+Sicim Teorisi
+Sürtünme
+Kuvvet
+Enerji
+Elektron
+Elektrostatik
+Işık
+Kütle
+Uzay
+Dünya
+Atmosfer
+Foton
+Madde
+Katı
+Sıvı
+Gaz
+Zaman
+Atom
+Hız
+Parçacık
+Dalga
+Kinetik
+Potansiyel
+Sıcaklık
+Skaler
+Spekturum
+Vektör
+Faradey
+Michael Faradey
+Tesla
+Nikola Tesla
+Manyetizma
+Faz
+Yansıma
+Parçacık
+Momentum
+Ağırlık
+Akım
+Yoğunluk
+Sıcaklık
+Sıcak
+Soğuk
+Soğukluk
+Çekirdek
+Denge
+Dinamo
+Eylemsizlik
+Yasa
+Evren
+Doğa
+Elektrik Alanı
+Frekans
+Genlik
+Güç
+İletken
+Işınım
+İtme
+Çekme
+Korunum
+Kuantum
+Kuark
+Kalori
+Osiloskop
+Periyot
+Ses
+Tepe
+Termodinamik
+Titreşim
+Volt
+Watt
+Yük
+Yerçekimi
+Zayıf kuvvet
+Güçlü Kuvvet
+doppler
+spektrum
+bilim
