@@ -1,0 +1,8 @@
+﻿  RC4.cpp
+C:\Users\Emir\Desktop\RC4\Deneme\Deneme\RC4.cpp(17,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Emir\Desktop\RC4\Deneme\Deneme\RC4.cpp(50,33): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Emir\Desktop\RC4\Deneme\Deneme\RC4.cpp(40,12): warning C4101: 'kalan': unreferenced local variable
+C:\Users\Emir\Desktop\RC4\Deneme\Deneme\RC4.cpp(65,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Emir\Desktop\RC4\Deneme\Deneme\RC4.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\Desktop\RC4\Deneme\Deneme\RC4.cpp(134,28): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+  Deneme.vcxproj -> C:\Users\Emir\Desktop\RC4\Deneme\x64\Debug\Deneme.exe

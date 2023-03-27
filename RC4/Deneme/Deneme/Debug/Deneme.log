@@ -1,0 +1,114 @@
+﻿  RC4.cpp
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(9,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(9,8): error C2146: syntax error: missing ';' before identifier 'BolmeIle'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(10,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(10,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(32,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(32,1): error C2086: 'int string': redefinition
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(9): message : see declaration of 'string'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(32,8): error C2146: syntax error: missing ';' before identifier 'BinaryToString'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(32,38): error C2143: syntax error: missing ';' before '{'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(32,38): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(57,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(57,1): error C2086: 'int string': redefinition
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(9): message : see declaration of 'string'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(57,8): error C2146: syntax error: missing ';' before identifier 'BitWiseWith'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(57,33): error C2143: syntax error: missing ';' before '{'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(57,33): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(78,6): error C2182: 'KSA': illegal use of type 'void'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(78,17): error C2146: syntax error: missing ')' before identifier 'key'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(78,37): error C2143: syntax error: missing ';' before '{'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(78,37): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(105,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(105,1): error C2086: 'int string': redefinition
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(9): message : see declaration of 'string'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(105,8): error C2146: syntax error: missing ';' before identifier 'PRGA'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(105,45): error C2143: syntax error: missing ';' before '{'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(105,45): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(134,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(134,1): error C2086: 'int string': redefinition
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(9): message : see declaration of 'string'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(134,8): error C2146: syntax error: missing ';' before identifier 'RC4'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(134,41): error C2143: syntax error: missing ';' before '{'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(134,41): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(142,6): error C2182: 'Encryption': illegal use of type 'void'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(142,24): error C2146: syntax error: missing ')' before identifier 'mesaj'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(142,43): error C2143: syntax error: missing ';' before '{'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(142,43): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(193,6): error C2182: 'Decryption': illegal use of type 'void'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(193,24): error C2146: syntax error: missing ')' before identifier 'ikilik_metin'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(193,50): error C2143: syntax error: missing ';' before '{'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(193,50): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(241,6): error C2365: 'Encryption': redefinition; previous definition was 'data variable'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(142): message : see declaration of 'Encryption'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(243,9): error C2146: syntax error: missing ';' before identifier 'key'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(243,9): error C2065: 'key': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(244,9): error C2146: syntax error: missing ';' before identifier 'mesaj'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(244,9): error C2065: 'mesaj': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(246,9): error C2146: syntax error: missing ';' before identifier 'Sifreli_Metin'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(246,9): error C2065: 'Sifreli_Metin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(248,9): error C2146: syntax error: missing ';' before identifier 'ikilik_sifre'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(248,9): error C2065: 'ikilik_sifre': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(253,2): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(253,44): error C2065: 'endl': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(254,10): error C2065: 'cin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(254,15): error C2065: 'mesaj': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(254,2): error C3861: 'getline': identifier not found
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(255,2): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(255,51): error C2065: 'endl': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(256,10): error C2065: 'cin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(256,15): error C2065: 'key': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(256,2): error C3861: 'getline': identifier not found
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(260,2): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(260,58): error C2065: 'endl': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(261,2): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(261,45): error C2065: 'endl': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(262,2): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(262,54): error C2065: 'endl': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(263,2): error C2065: 'Sifreli_Metin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(263,34): error C2065: 'key': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(263,39): error C2065: 'mesaj': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(263,30): error C3861: 'RC4': identifier not found
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(263,18): error C3861: 'BitWiseWith': identifier not found
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(267,2): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(267,38): error C2065: 'endl': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(271,16): error C2065: 'Sifreli_Metin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(272,2): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(274,3): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(274,11): error C2065: 'Sifreli_Metin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(275,2): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(277,2): error C2065: 'ofstream': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(277,11): error C2146: syntax error: missing ';' before identifier 'Dosya'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(277,11): error C3861: 'Dosya': identifier not found
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(279,6): error C2065: 'Dosya': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(281,4): error C2065: 'Dosya': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(281,13): error C2065: 'Sifreli_Metin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(282,3): error C2065: 'Dosya': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(285,3): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(285,30): error C2065: 'endl': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(288,2): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(288,59): error C2065: 'endl': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(292,6): error C2365: 'Decryption': redefinition; previous definition was 'data variable'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(193): message : see declaration of 'Decryption'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(295,9): error C2146: syntax error: missing ';' before identifier 'ikilik_metin'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(295,9): error C2065: 'ikilik_metin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(296,9): error C2146: syntax error: missing ';' before identifier 'key'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(296,9): error C2065: 'key': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(297,9): error C2146: syntax error: missing ';' before identifier 'Duz_metin'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(297,9): error C2065: 'Duz_metin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(298,9): error C2146: syntax error: missing ';' before identifier 'Cozulmus_Mesaj'
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(298,9): error C2065: 'Cozulmus_Mesaj': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(311,2): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(311,49): error C2065: 'endl': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(312,10): error C2065: 'cin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(312,15): error C2065: 'ikilik_metin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(312,2): error C3861: 'getline': identifier not found
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(314,2): error C2065: 'cout': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(314,50): error C2065: 'endl': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(315,10): error C2065: 'cin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(315,15): error C2065: 'key': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(315,2): error C3861: 'getline': identifier not found
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(317,2): error C2065: 'Duz_metin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(317,29): error C2065: 'ikilik_metin': undeclared identifier
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(317,14): error C3861: 'BinaryToString': identifier not found
+C:\Users\Emir\source\repos\Deneme\Deneme\RC4.cpp(317,41): fatal error C1003: error count exceeds 100; stopping compilation
