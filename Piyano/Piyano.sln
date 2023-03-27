@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piyano", "Piyano\Piyano.csproj", "{D047F8C0-35C1-4557-B5E0-F499D9ACCBEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D047F8C0-35C1-4557-B5E0-F499D9ACCBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D047F8C0-35C1-4557-B5E0-F499D9ACCBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D047F8C0-35C1-4557-B5E0-F499D9ACCBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D047F8C0-35C1-4557-B5E0-F499D9ACCBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A53F79D9-2512-4EC7-B7F5-0B3B33703DE3}
+	EndGlobalSection
+EndGlobal

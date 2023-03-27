@@ -1,0 +1,5 @@
+Tarih: 17.02.2023  15.32
+
+Aciklama: Notalar, "Notalar" dizini altinda;
+belirlenen kayit adi ile olusturulmus dizinde
+tutuluyor...
