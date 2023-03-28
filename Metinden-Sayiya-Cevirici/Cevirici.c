@@ -102,7 +102,7 @@ void main()
     int sayi;
     char negatifMi = 0; // varsayilan olarak false
 
-    printf("Metin giriniz: ");
+    printf("Metin olarak sayi giriniz: ");
     scanf("%s", word);
 
     if (word[0] == '-')
