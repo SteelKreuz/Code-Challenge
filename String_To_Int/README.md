@@ -1,13 +1,10 @@
---------------------
-Aciklama:
+# Aciklama:
 Metinsel bir değer olarak girilen sayının, işaretli veya işaretsiz,
 farketmicek bir şekilde, sayısal değere dönüştüren fonksiyon/program.
---------------------
 
 
---------------------
-Kullanımı:
---------------------
+# Kullanımı:
+
 
 $ gcc cevir.c -o run
 $ ./run
