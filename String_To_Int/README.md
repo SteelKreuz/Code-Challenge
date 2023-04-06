@@ -5,9 +5,9 @@ farketmicek bir şekilde, sayısal değere dönüştüren fonksiyon/program.
 
 
 
---------------------
+
 Kullanımı:
---------------------
+
 
 $ gcc cevir.c -o run
 $ ./run
