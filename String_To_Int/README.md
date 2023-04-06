@@ -13,7 +13,7 @@ farketmicek bir şekilde, sayısal değere dönüştüren fonksiyon/program.
 > - Sayi Hali: 19
 
 > - Metin Giriniz: +19
-> - Sayi Hali: +19
+> - Sayi Hali: 19
 
 > - Metin Giriniz: -19
 > - Sayi Hali: -19
